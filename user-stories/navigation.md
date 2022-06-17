@@ -4,7 +4,7 @@
 
 ```
 As a user
-I can see a response navigation
+I can see a responsive navigation
 So I can browse the website on my phone
 ```
 
