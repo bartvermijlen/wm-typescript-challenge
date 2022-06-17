@@ -4,7 +4,7 @@
 
 ```
 As a user
-Dark mode is support on the website
+Dark mode is supported on the website
 So I can browse the website both in light and dark mode based on my browser preferences
 ```
 
